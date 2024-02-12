@@ -14,7 +14,7 @@ except :
 try :
     r = float(rate)
 except :
-    print ("error")
+    print ("Error, please enter numeric input")
     quit()
 
 
