@@ -8,4 +8,4 @@ rph = input('시급 : ')
 h = int(hours)
 r = int(rph)
 
-print (h * r) 
+print ("일급 :",h * r) 
